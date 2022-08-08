@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Text>Hazard_Placement</Text>
+		<Name>Hazard_Placement Application</Name>
+		<Assembly>Hazard_Automation.dll</Assembly>
+		<!--<ClientId>0bbf1076-767a-4286-97e4-bc8662eb2271</ClientId>-->
+		<!--<FullClassName>Hazard_Automation.RVT.RVT_Command</FullClassName>-->
+		<AddInId>
+			C7F0F0D8-ACB5-4D19-B006-6E268A053F84
+		</AddInId>
+		<FullClassName>Hazard_Automation.RVT_GUI.App</FullClassName>
+		<!--<Name>Hazard_Placement</Name>-->
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
